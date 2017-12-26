@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoadMoreForRecyclerView</string>
+    <string name="normalItem">我是正常的item</string>
+    <string name="footerViewItem">我是footerView</string>
+    <string name="list_footer_loading">拼命加载中......</string>
+    <string name="list_footer_end">全部加载完成</string>
+    <string name="list_footer_network_error">网络视乎有点问题!</string>
+</resources>
